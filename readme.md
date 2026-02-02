@@ -1,7 +1,5 @@
 Http protokoll
 
-Ülesanneteks vajalik kood asub https://github.com/mkalmo2/icd0007http.
-
 Kui saata aadressile https://mkalmo.eu/echo/ mingi päring, siis kuvab
 see aadress saadetud info tagasi. Proovige see läbi mines brauseriga
 sellele aadressile.
@@ -69,8 +67,7 @@ Kogutud koodid lähevad sinna faili. Iga kood eraldi reale ja koos "Token
     Selle punkti käigus saate koodid 8-14.
 
 9.  Tehke samad punktid läbi kasutades madalama taseme klienti. Näiteks
-    ncat, curl või ülesande materjalides olev request-sender.php
-    (https://github.com/mkalmo2/icd0007http).
+    ncat, curl või ülesande materjalides olev request-sender.php.
 
     Kui request-sender.php peaks andma vea 'Unable to find the socket
     transport "tls" ...', siis peaksite php.ini failis sisse
